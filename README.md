@@ -1,4 +1,0 @@
-MuezliAutoItemBarReload
-=======================
-
-Minecraft Plugin

@@ -1,0 +1,5 @@
+name: MuezliAutoItemBarReload
+main: me.ScottSpittle.MuezliAutoItemBarReload.main
+authors: [ScottSpittle]
+version: 0.1
+description: Muezli's Auto Item Reloader
